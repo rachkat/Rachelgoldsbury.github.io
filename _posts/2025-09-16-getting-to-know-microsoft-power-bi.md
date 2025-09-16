@@ -41,3 +41,12 @@ Each has unique strengths; the “best” choice depends on your use case, data 
 ## References
 1. uCertify. (n.d.). *Award-winning online learning platform*. <https://www.ucertify.com/products/learn.html>  
 2. Microsoft. (n.d.). *Power BI – Data visualization*. <https://powerbi.microsoft.com/en-us/>
+
+
+## Listen to the Audio Version
+
+<audio controls>
+  <source src="/assets/audio/PC1.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
