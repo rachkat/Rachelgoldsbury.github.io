@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Welcome"
+layout: home
+title: "Welcome to my Blog"
 ---
 
 # Hello, World 👋
