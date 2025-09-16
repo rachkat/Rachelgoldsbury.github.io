@@ -27,11 +27,6 @@ Microsoft Power BI is a robust tool for creating visualizations and conducting i
 *Figure 1. Example Power BI dashboard.*
 
 
-### Figure 1: Power BI Dashboard
-![Power BI Dashboard](/assets/powerbi.png)
-
-
-
 ## Other BI Tools Similar to Microsoft Power BI
 Several other tools offer similar capabilities for BI and data visualization, including:
 
@@ -50,8 +45,9 @@ Each has unique strengths; the “best” choice depends on your use case, data 
 
 ## Listen to the Audio Version
 
+<h2>Listen to the Audio Version</h2>
 <audio controls>
-  <source src="/assets/audio/PC1.mp3" type="audio/mpeg">
+  <source src="{{ "/assets/audio/PC1.mp3" | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
