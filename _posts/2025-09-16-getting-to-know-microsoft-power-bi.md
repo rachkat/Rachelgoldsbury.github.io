@@ -43,7 +43,7 @@ Each has unique strengths; the “best” choice depends on your use case, data 
 2. Microsoft. (n.d.). *Power BI – Data visualization*. <https://powerbi.microsoft.com/en-us/>
 
 
-## Listen to the Audio Version
+
 
 <h2>Listen to the Audio Version</h2>
 <audio controls>
