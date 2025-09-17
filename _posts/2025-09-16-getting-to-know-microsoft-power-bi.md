@@ -21,11 +21,6 @@ Reliable, well-designed visualizations (charts, graphs, maps, etc.) help convey 
 ## About Microsoft Power BI
 Microsoft Power BI is a robust tool for creating visualizations and conducting in-depth analysis. It integrates well with Microsoft tools (Excel, SQL Server, Azure) and also connects to non-Microsoft data sources like Salesforce—helping teams build interactive, insightful dashboards.
 
-### Figure 1: Power BI Dashboard
-![Power BI Dashboard]({{ "/assets/img/powerbi.png" | relative_url }})
-
-*Figure 1. Example Power BI dashboard.*
-
 
 ## Other BI Tools Similar to Microsoft Power BI
 Several other tools offer similar capabilities for BI and data visualization, including:
@@ -41,8 +36,6 @@ Each has unique strengths; the “best” choice depends on your use case, data 
 ## References
 1. uCertify. (n.d.). *Award-winning online learning platform*. <https://www.ucertify.com/products/learn.html>  
 2. Microsoft. (n.d.). *Power BI – Data visualization*. <https://powerbi.microsoft.com/en-us/>
-
-
 
 
 <h2>Listen to the Audio Version</h2>
