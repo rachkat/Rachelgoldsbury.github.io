@@ -3,7 +3,7 @@
 
 This repository contains the source for my GitHub Pages site (Jekyll) where I share quick write-ups, visuals, and portfolio notes on **data analytics**.
 
-👉 **Live site:** [https://rachkat.github.io](https://rachkat.github.io/Rachelgoldsbury.github.io/)
+👉 **Live site:** [https://rachkat.github.io/Rachelgoldsbury.github.io/]
 
 ---
 
