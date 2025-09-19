@@ -35,6 +35,3 @@ Write your content below. Images go in `assets/img/` and are referenced like:
 Questions or ideas? Open an issue or reach me on LinkedIn.
 
 ```
-
-If your live URL ends up being the project-style path (e.g., `https://rachkat.github.io/Rachelgoldsbury.github.io/`), just swap the link in the README.
-```
