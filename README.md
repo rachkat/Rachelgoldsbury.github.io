@@ -1,5 +1,5 @@
 ````markdown
-# Rachel Goldsbury — Data Analytics & Insights Blog
+# Rachel Goldsbury — Data Analytics, Thoughts & Insights Blog
 
 This repository contains the source for my GitHub Pages site (Jekyll) where I share quick write-ups, visuals, and portfolio notes on **data analytics**.
 
