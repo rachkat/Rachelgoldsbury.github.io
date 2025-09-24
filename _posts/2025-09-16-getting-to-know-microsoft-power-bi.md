@@ -44,3 +44,9 @@ Each has unique strengths; the “best” choice depends on your use case, data 
   Your browser does not support the audio element.
 </audio>
 
+
+<h2>Listen to the Audio Version</h2>
+<audio controls>
+  <source src="{{ "/assets/audio/audiofile2.m4a" | relative_url }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
