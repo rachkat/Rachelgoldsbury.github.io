@@ -85,11 +85,7 @@ Whether simplifying distributions, clarifying trends, or revealing geographic pa
 
 ---
 
-<audio controls>
-  <source src="./assets/audio/Audio-9_24_2025.m4a" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
+🎧 [Listen to the audio version](./assets/audio/Audio-9_24_2025.m4a)
 
 ---
 
