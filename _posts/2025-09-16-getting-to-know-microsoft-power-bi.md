@@ -42,11 +42,3 @@ Each has unique strengths; the “best” choice depends on your use case, data 
   <source src="{{ "/assets/audio/audiofile2.m4a" | relative_url }}" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-
-
-<audio controls>
-  <source src="https://rachelgoldsbury.github.io/assets/audio/audiofile2.m4a" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-
