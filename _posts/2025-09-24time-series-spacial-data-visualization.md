@@ -17,7 +17,7 @@ Spatial data, involving geographical or spatial relationships, is often represen
 
 ---
 
-## II. Categorical Data Visualization
+## I. Categorical Data Visualization
 
 <figure>
   <img src="https://rachkat.github.io/Rachelgoldsbury.github.io/assets/auto-recalls-1.png" alt="Frequency of Vehicle Color in Collisions">
@@ -35,7 +35,7 @@ Despite this, the representation serves its purpose well, offering valuable insi
 
 ---
 
-## III. Time-Series Data Visualization
+## II. Time-Series Data Visualization
 
 <figure>
   <img src="https://rachkat.github.io/Rachelgoldsbury.github.io/assets/auto-recalls-2.png" alt="Drugs and Crime in England and Wales">
@@ -53,7 +53,7 @@ Improving this visualization would involve aligning axes more transparently and 
 
 ---
 
-## IV. Spatial Data Visualization
+## III. Spatial Data Visualization
 
 <figure>
   <img src="https://rachkat.github.io/Rachelgoldsbury.github.io/assets/auto-recalls-3.png" alt="Chlamydia Cases in California">
