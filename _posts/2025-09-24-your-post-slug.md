@@ -18,7 +18,7 @@ In this report, we present audience-specific visualizations created using Micros
 
 **Analysis:** This visualization aids Government Regulators in identifying patterns and focusing on specific periods or severity levels that may require intervention. The filtered data ensures relevance to current safety concerns.  
 
-![Figure 1 — Government Regulators Visualization](/assets/img/auto-recalls-1.png)  
+![Figure 1 — Government Regulators Visualization](/assets/auto-recalls-1.png)
 
 ---
 
@@ -27,7 +27,7 @@ In this report, we present audience-specific visualizations created using Micros
 
 **Analysis:** Targeted at Automobile Manufacturers, this visualization guides them in focusing on specific components prone to defects. By filtering out less prevalent issues, manufacturers can prioritize their efforts for maximum impact.  
 
-![Figure 2 — Automobile Manufacturers Visualization](/assets/img/auto-recalls-2.png)  
+![Figure 2 — Automobile Manufacturers Visualization](/assets/auto-recalls-2.png)
 
 ---
 
@@ -36,7 +36,7 @@ In this report, we present audience-specific visualizations created using Micros
 
 **Analysis:** Tailored for the General Public/Consumers, this visualization empowers them to make informed decisions. By highlighting manufacturers with fewer defects, consumers can choose vehicles with higher safety and functionality ratings.  
 
-![Figure 3 — General Public/Consumers Visualization](/assets/img/auto-recalls-3.png)  
+![Figure 3 — General Public/Consumers Visualization](/assets/auto-recalls-3.png)
 
 ---
 
