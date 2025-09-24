@@ -92,6 +92,10 @@ _posts/assets/audio/Audio-9_24_2025.m4a.
 
 [▶️ Click here to listen to the audio version](https://rachelgoldsbury.github.io/assets/audio/Audio-9_24_2025.m4a)
 
+
+🎧 [Click here to listen to the audio version](https://rachkat.github.io/Rachelgoldsbury.github.io/assets/audio/Audio-9_24_2025.m4a)
+
+
 ---
 
 ## References
