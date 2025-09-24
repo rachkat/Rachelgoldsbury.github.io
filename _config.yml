@@ -1,3 +1,7 @@
 theme: minima
 title: "Rachel Goldsbury"
 description: "Just a Blog"
+
+# GitHub Pages settings
+url: "https://rachelgoldsbury.github.io"
+baseurl: ""   # leave blank for user/organization sites
