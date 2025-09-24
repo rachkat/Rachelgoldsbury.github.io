@@ -20,6 +20,7 @@ In this report, we present audience-specific visualizations created using Micros
 
 ![Figure 1 — Government Regulators Visualization](/assets/auto-recalls-1.png)
 
+
 ---
 
 ### 2. Automobile Manufacturers  
