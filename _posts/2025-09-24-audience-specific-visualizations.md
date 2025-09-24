@@ -23,6 +23,8 @@ In this report, we present audience-specific visualizations created using Micros
 
 ![Figure 1 — Government Regulators Visualization](https://rachkat.github.io/assets/auto-recalls-1.png)
 
+![Figure 1 — Government Regulators Visualization](https://rachkat.github.io/Rachelgoldsbury.github.io/assets/auto-recalls-1.png)
+
 ---
 
 ### 2. Automobile Manufacturers  
@@ -36,6 +38,8 @@ In this report, we present audience-specific visualizations created using Micros
 
 ![Figure 2 — Automobile Manufacturers Visualization](https://rachkat.github.io/assets/auto-recalls-2.png)
 
+![Figure 2 — Automobile Manufacturers Visualization](https://rachkat.github.io/Rachelgoldsbury.github.io/assets/auto-recalls-2.png)
+
 ---
 
 ### 3. General Public/Consumers  
@@ -48,6 +52,8 @@ In this report, we present audience-specific visualizations created using Micros
 ![Figure 3](https://rachkat.github.io/assets/auto-recalls-3.png)
 
 ![Figure 3 — General Public/Consumers Visualization](https://rachkat.github.io/assets/auto-recalls-3.png)
+
+![Figure 3 — General Public/Consumers Visualization](https://rachkat.github.io/Rachelgoldsbury.github.io/assets/auto-recalls-3.png)
 
 ---
 
