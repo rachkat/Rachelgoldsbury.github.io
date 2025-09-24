@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Exploring Categorical, Time-Series, and Spatial Data Visualizations"
-description: "An analysis of three visualization types—categorical, time-series, and spatial—highlighting their effectiveness and opportunities for improvement."
-date: 2025-09-24 08:30 -0400
+date: 2025-09-24
 categories: [Data Visualization, Analytics]
 tags: [visualization, categorical, time-series, spatial, analysis]
 ---
