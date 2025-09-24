@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Audience-Specific Visualizations in Automotive Safety Recalls"
-description: "Power BI visualizations tailored for government regulators, manufacturers, and the general public, based on automotive safety recall data."
-date: 2025-09-24 07:00 -0400
+date: 2025-09-24
 categories: [Power BI, Data Visualization]
 tags: [powerbi, automotive, recalls, visualization, audience-analysis]
 ---
