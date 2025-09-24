@@ -85,6 +85,10 @@ Whether simplifying distributions, clarifying trends, or revealing geographic pa
 
 ---
 
+🎧 [Listen to the audio version](./assets/audio/Audio-9_24_2025.m4a)
+
+---
+
 ## References
 - Lippman, D. (n.d.). *Mathematics for the Liberal Arts Corequisite.* Lumen. [Link](https://courses.lumenlearning.com/coloradomesa-mathforliberalartscorequisite/chapter/presenting-categorical-data-graphically/)  
 - *Introduction to Graphs.* Life Pilot. (n.d.). [Link](https://www.life-pilot.co.uk/improve-your-skills/introduction-to-graphs/time-series-graphs)  
