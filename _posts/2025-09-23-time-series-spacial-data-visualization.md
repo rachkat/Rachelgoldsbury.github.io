@@ -87,6 +87,12 @@ Whether simplifying distributions, clarifying trends, or revealing geographic pa
 
 🎧 [Click here to listen to the audio version](https://rachkat.github.io/Rachelgoldsbury.github.io/assets/audio/Audio-9_24_2025.m4a)
 
+<h2>Listen to the Audio Version</h2>
+<audio controls>
+  <source src="{{ "/assets/audio/Audio-9_24_2025.m4a" | relative_url }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ---
 
 ## References
