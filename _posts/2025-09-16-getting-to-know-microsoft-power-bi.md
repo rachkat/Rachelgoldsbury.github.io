@@ -37,14 +37,6 @@ Each has unique strengths; the “best” choice depends on your use case, data 
 1. uCertify. (n.d.). *Award-winning online learning platform*. <https://www.ucertify.com/products/learn.html>  
 2. Microsoft. (n.d.). *Power BI – Data visualization*. <https://powerbi.microsoft.com/en-us/>
 
-
-<h2>Listen to the Audio Version</h2>
-<audio controls>
-  <source src="{{ "/assets/audio/PC1.mp3" | relative_url }}" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-
 <h2>Listen to the Audio Version</h2>
 <audio controls>
   <source src="{{ "/assets/audio/audiofile2.m4a" | relative_url }}" type="audio/mpeg">
