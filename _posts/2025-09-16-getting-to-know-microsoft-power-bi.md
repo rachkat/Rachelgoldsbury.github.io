@@ -53,3 +53,9 @@ Each has unique strengths; the “best” choice depends on your use case, data 
 
 [🎧 Click here to listen to the audio version](https://rachelgoldsbury.github.io/assets/audio/audiofile2.m4a)
 
+<audio controls>
+  <source src="https://rachelgoldsbury.github.io/assets/audio/audiofile2.m4a" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
